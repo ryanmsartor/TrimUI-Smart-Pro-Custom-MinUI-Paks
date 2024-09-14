@@ -1,0 +1,117 @@
+sh: setterm: not found
+sh: setterm: not found
+current_mode 1280x720
+MALI_CreateWindow:0x5596f5c140 done.
+2024-08-18 23:27:12.041 | DEBUG    | harbourmaster.config:<module>:109 - HM_DEFAULT_TOOLS_DIR:   /mnt/SDCARD/Apps/PortMaster
+2024-08-18 23:27:12.044 | DEBUG    | harbourmaster.config:<module>:110 - HM_DEFAULT_PORTS_DIR:   /mnt/SDCARD/Data/ports
+2024-08-18 23:27:12.045 | DEBUG    | harbourmaster.config:<module>:111 - HM_DEFAULT_SCRIPTS_DIR: /mnt/SDCARD/Data/ports
+sh: setterm: not found
+2024-08-18 23:27:13.348 | INFO     | __main__:__init__:515 - PM: 2024.07.17-1125
+2024-08-18 23:27:13.353 | INFO     | __main__:__init__:516 - HM: 2024-02-27
+2024-08-18 23:27:13.354 | INFO     | __main__:__init__:517 - SDL DLL: /usr/trimui/lib/libSDL2-2.0.so.0.2600.5,  2.26.5
+2024-08-18 23:27:13.356 | INFO     | __main__:__init__:518 - TTF DLL: /usr/trimui/lib/libSDL2_ttf-2.0.so.0.14.1, 2.0.15
+2024-08-18 23:27:13.357 | INFO     | __main__:__init__:519 - IMG DLL: /usr/trimui/lib/libSDL2_image-2.0.so.0.2.3, 2.0.5
+2024-08-18 23:27:13.358 | INFO     | __main__:__init__:520 - MIX DLL: /usr/trimui/lib/libSDL2_mixer-2.0.so.0.0.1, 2.0.1
+2024-08-18 23:27:13.361 | INFO     | __main__:__init__:530 - Opened GameController 0: b'Xbox 360 Controller'
+2024-08-18 23:27:13.362 | INFO     | __main__:__init__:531 -  b'030003f05e0400008e02000014010000,Xbox 360 Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b8,leftshoulder:b4,leftstick:b9,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b10,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux,'
+2024-08-18 23:27:13.371 | DEBUG    | harbourmaster.hardware:device_info:510 - DEVICE INFO: {'name': 'TrimUI', 'version': '1.0.4', 'device': 'trimui-smart-pro', 'resolution': (1280, 720), 'analogsticks': 2, 'cpu': 'a133plus', 'capabilities': ['power', 'aarch64', 'restore', '16:9', '1280x720', 'TrimUI', 'trimui-smart-pro', 'analog_0', 'analog_1', 'analog_2', 'hires', 'wide', '1gb'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-18 23:27:13.373 | INFO     | __main__:__init__:592 - {'name': 'TrimUI', 'version': '1.0.4', 'device': 'trimui-smart-pro', 'resolution': (1280, 720), 'analogsticks': 2, 'cpu': 'a133plus', 'capabilities': ['power', 'aarch64', 'restore', '16:9', '1280x720', 'TrimUI', 'trimui-smart-pro', 'analog_0', 'analog_1', 'analog_2', 'hires', 'wide', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-18 23:27:13.867 | INFO     | pugtheme:theme_load:127 - Loading theme /mnt/SDCARD/Apps/PortMaster/PortMaster/pylibs/default_theme/theme.json
+2024-08-18 23:27:13.872 | DEBUG    | pugtheme:theme_load:227 - - loading base_data
+2024-08-18 23:27:13.873 | DEBUG    | pugtheme:theme_load:252 - - loading elements:
+2024-08-18 23:27:13.876 | DEBUG    | pugtheme:theme_load:298 -   - loading section ports_list
+2024-08-18 23:27:13.881 | DEBUG    | pugtheme:theme_load:298 -   - loading section port_info
+2024-08-18 23:27:13.884 | DEBUG    | pugtheme:theme_load:298 -   - loading section main_menu
+2024-08-18 23:27:13.886 | DEBUG    | pugtheme:theme_load:298 -   - loading section option_menu
+2024-08-18 23:27:13.890 | DEBUG    | pugtheme:theme_load:298 -   - loading section themes_list
+2024-08-18 23:27:13.894 | DEBUG    | pugtheme:theme_load:298 -   - loading section runtime_list
+2024-08-18 23:27:13.897 | DEBUG    | pugtheme:theme_load:298 -   - loading section on_screen_keyboard
+2024-08-18 23:27:13.899 | DEBUG    | pugtheme:theme_load:298 -   - loading section filter_list
+2024-08-18 23:27:13.902 | DEBUG    | pugtheme:theme_load:298 -   - loading section message_window
+2024-08-18 23:27:13.904 | DEBUG    | pugtheme:theme_load:298 -   - loading section featured_ports_list
+2024-08-18 23:27:13.907 | DEBUG    | pugtheme:theme_load:298 -   - loading section featured_ports
+2024-08-18 23:27:13.912 | DEBUG    | pugtheme:theme_load:298 -   - loading section message_box
+2024-08-18 23:27:13.914 | DEBUG    | pugtheme:theme_load:298 -   - loading section blank
+2024-08-18 23:27:13.916 | DEBUG    | pugtheme:theme_load:298 -   - loading section selection_list
+2024-08-18 23:27:13.918 | DEBUG    | pugtheme:theme_load:298 -   - loading section selection_list_description
+2024-08-18 23:27:13.921 | DEBUG    | pugtheme:theme_load:298 -   - loading section selection_list_images
+2024-08-18 23:27:13.923 | DEBUG    | pugtheme:theme_load:298 -   - loading section selection_list_description_images
+2024-08-18 23:27:13.926 | DEBUG    | pugtheme:theme_load:275 - - loading pallet:
+2024-08-18 23:27:13.927 | DEBUG    | pugtheme:theme_load:231 - - loading resources:
+2024-08-18 23:27:13.954 | DEBUG    | pugtheme:theme_load:247 -   - loading sound click.ogg as click - [OKAY]
+2024-08-18 23:27:14.007 | DEBUG    | pugtheme:theme_load:241 -   - loading image buttons.png - [OKAY]
+2024-08-18 23:27:14.041 | DEBUG    | pugtheme:theme_load:239 -   - loading image no-image.jpg as NO_IMAGE - [OKAY]
+2024-08-18 23:27:14.048 | DEBUG    | pugtheme:theme_load:241 -   - loading image pointenfedde.png - [OKAY]
+2024-08-18 23:27:14.049 | DEBUG    | pugtheme:theme_load:298 -   - loading section disclaimer
+2024-08-18 23:27:14.120 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER messages
+2024-08-18 23:27:14.121 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'messages']
+2024-08-18 23:27:16.697 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER messages
+2024-08-18 23:27:16.700 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root']
+2024-08-18 23:27:18.341 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER ports
+2024-08-18 23:27:18.342 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports']
+2024-08-18 23:27:21.446 | DEBUG    | pugscene:do_update:1695 - uninstall: undertale.zip
+2024-08-18 23:27:21.454 | DEBUG    | pugscene:update_port:1845 - uninstall: undertale.zip -> ['rpg', 'krishenriksen', 'jeod', 'installed'] -> {'version': 3, 'name': 'undertale.zip', 'items': ['Undertale.sh', 'undertale/'], 'items_opt': None, 'attr': {'title': 'Undertale', 'desc': 'Undertale loader.', 'inst': 'Copy the contents of your Steam or GOG installation to ports/undertale/gamedata.', 'genres': ['rpg'], 'porter': ['krishenriksen', 'Jeod'], 'image': {'screenshot': 'screenshot.png', 'covers': ['cover.png'], 'thumbnail': None, 'video': None}, 'rtr': False, 'runtime': None, 'reqs': [], 'arch': ['armhf'], 'desc_md': None, 'inst_md': None, 'exp': False}, 'status': {'source': 'PortMaster', 'md5': 'd2a8d61a0f17a5b3ffac9d1034b8a45d', 'status': 'Installed'}, 'files': {'port.json': 'undertale/port.json', 'Undertale.sh': 'Undertale.sh', 'undertale/': 'undertale/'}, 'source': {'date_added': '2021-09-10', 'date_updated': '2024-07-28', 'md5': 'd2a8d61a0f17a5b3ffac9d1034b8a45d', 'release_id': '2024-07-28_0519', 'size': 4032483, 'url': 'https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/undertale.zip'}}
+2024-08-18 23:27:21.466 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER port_info
+2024-08-18 23:27:21.467 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'port_info']
+2024-08-18 23:27:22.477 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER port_info
+2024-08-18 23:27:22.479 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports']
+2024-08-18 23:27:22.492 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER messages
+2024-08-18 23:27:22.494 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'messages']
+2024-08-18 23:27:25.294 | INFO     | harbourmaster.harbour:_install_port:1434 - Installing Undertale
+2024-08-18 23:27:26.534 | DEBUG    | harbourmaster.platform:port_install:192 - PlatformTrimUI: Port Install undertale.zip
+2024-08-18 23:27:26.536 | DEBUG    | harbourmaster.platform:gamelist_add:757 - Processing /mnt/SDCARD/Data/ports/undertale/gameinfo.xml
+2024-08-18 23:27:26.538 | INFO     | harbourmaster.platform:gamelist_add:798 - undertale/cover.png: /mnt/SDCARD/Data/ports/undertale/cover.png
+2024-08-18 23:27:26.539 | DEBUG    | harbourmaster.platform:gamelist_add:803 - roms -- /mnt/SDCARD/Data/ports/undertale/cover.png
+2024-08-18 23:27:26.541 | DEBUG    | harbourmaster.platform:gamelist_add:808 - Copying /mnt/SDCARD/Data/ports/undertale/cover.png to /mnt/SDCARD/Imgs/PORTS/Undertale-pre.png
+2024-08-18 23:27:26.545 | DEBUG    | harbourmaster.platform:gamelist_add:812 - Copying /mnt/SDCARD/Data/ports/Undertale.sh to /mnt/SDCARD/Roms/PORTS/Undertale.sh
+2024-08-18 23:27:26.555 | DEBUG    | harbourmaster.harbour:_fix_permissions:1317 - path_fs=vfat
+2024-08-18 23:27:26.565 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER message_box
+2024-08-18 23:27:26.566 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'messages', 'message_box']
+2024-08-18 23:27:27.398 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER message_box
+2024-08-18 23:27:27.399 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports', 'messages']
+2024-08-18 23:27:27.459 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER messages
+2024-08-18 23:27:27.462 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports']
+2024-08-18 23:27:53.818 | DEBUG    | pugscene:do_update:1695 - uninstall: demonizer.zip
+2024-08-18 23:27:53.833 | DEBUG    | pugscene:update_port:1845 - uninstall: demonizer.zip -> ['arcade', 'wark91', 'installed'] -> {'version': 3, 'name': 'demonizer.zip', 'items': ['Demonizer.sh', 'demonizer/'], 'items_opt': None, 'attr': {'title': 'Demonizer', 'porter': ['Wark91'], 'desc': 'The fantasy bullet battle to end monstergirl genocide! Turn hateful humans into lovable demons in this 90s arcade style shooter, inspired by Raiden Fighters, Strikers 1945, and Battle Garegga.', 'inst': 'You need to copy the game file (demonizer-demo.love or demonizer-full.love or demonizer demo.exe or ...) in gamedata directory and named it demonizer.love.', 'genres': ['arcade'], 'image': {'screenshot': 'screenshot.jpg', 'covers': [], 'thumbnail': None, 'video': None}, 'rtr': False, 'runtime': None, 'reqs': [], 'arch': ['aarch64'], 'exp': False}, 'status': {'source': 'PortMaster', 'md5': '28e48432322f7a483b82f81edda5144f', 'status': 'Installed'}, 'files': {'port.json': 'demonizer/port.json', 'Demonizer.sh': 'Demonizer.sh', 'demonizer/': 'demonizer/'}, 'source': {'date_added': '2024-04-04', 'date_updated': '2024-04-07', 'md5': '28e48432322f7a483b82f81edda5144f', 'release_id': '2024-04-07_0255', 'size': 2590242, 'url': 'https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/demonizer.zip'}}
+2024-08-18 23:27:53.847 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER port_info
+2024-08-18 23:27:53.849 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'port_info']
+2024-08-18 23:27:54.716 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER port_info
+2024-08-18 23:27:54.717 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports']
+2024-08-18 23:27:54.727 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER messages
+2024-08-18 23:27:54.729 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'messages']
+2024-08-18 23:27:56.825 | INFO     | harbourmaster.harbour:_install_port:1434 - Installing Demonizer
+2024-08-18 23:27:58.089 | DEBUG    | harbourmaster.platform:port_install:192 - PlatformTrimUI: Port Install demonizer.zip
+2024-08-18 23:27:58.092 | DEBUG    | harbourmaster.platform:gamelist_add:757 - Processing /mnt/SDCARD/Data/ports/demonizer/gameinfo.xml
+2024-08-18 23:27:58.095 | INFO     | harbourmaster.platform:gamelist_add:798 - demonizer/screenshot.jpg: /mnt/SDCARD/Data/ports/demonizer/screenshot.jpg
+2024-08-18 23:27:58.097 | DEBUG    | harbourmaster.platform:gamelist_add:803 - roms -- /mnt/SDCARD/Data/ports/demonizer/screenshot.jpg
+2024-08-18 23:27:58.100 | DEBUG    | harbourmaster.platform:gamelist_add:808 - Copying /mnt/SDCARD/Data/ports/demonizer/screenshot.jpg to /mnt/SDCARD/Imgs/PORTS/Demonizer-pre.jpg
+2024-08-18 23:27:58.116 | DEBUG    | harbourmaster.platform:gamelist_add:812 - Copying /mnt/SDCARD/Data/ports/Demonizer.sh to /mnt/SDCARD/Roms/PORTS/Demonizer.sh
+2024-08-18 23:27:58.132 | DEBUG    | harbourmaster.harbour:_fix_permissions:1317 - path_fs=vfat
+2024-08-18 23:27:58.142 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER message_box
+2024-08-18 23:27:58.144 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'ports', 'messages', 'message_box']
+2024-08-18 23:27:58.831 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER message_box
+2024-08-18 23:27:58.833 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports', 'messages']
+2024-08-18 23:27:58.914 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER messages
+2024-08-18 23:27:58.918 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root', 'ports']
+2024-08-18 23:28:02.608 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER ports
+2024-08-18 23:28:02.610 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root']
+2024-08-18 23:28:03.731 | DEBUG    | __main__:push_scene:1257 - PUSH SCENE LAYER message_box
+2024-08-18 23:28:03.733 | DEBUG    | __main__:push_scene:1260 - SCENE LIST: ['root', 'message_box']
+2024-08-18 23:28:04.617 | DEBUG    | __main__:pop_scene:1282 - POP SCENE LAYER message_box
+2024-08-18 23:28:04.619 | DEBUG    | __main__:pop_scene:1285 - SCENE LIST: ['root']
+2024-08-18 23:28:04.621 | DEBUG    | __main__:main:2010 - <harbourmaster.harbour.HarbourMaster object at 0x7f95c56a10>: trimui
+2024-08-18 23:28:04.623 | DEBUG    | __main__:main:2012 - True
+2024-08-18 23:28:04.625 | DEBUG    | __main__:main:2015 - /mnt/SDCARD/Apps/PortMaster/PortMaster/.trimui-refresh
+sh: setterm: not found
+0: 1
+Display size: 1280x720
+{'name': 'TrimUI', 'version': '1.0.4', 'device': 'trimui-smart-pro', 'resolution': (1280, 720), 'analogsticks': 2, 'cpu': 'a133plus', 'capabilities': ['power', 'aarch64', 'restore', '16:9', '1280x720', 'TrimUI', 'trimui-smart-pro', 'analog_0', 'analog_1', 'analog_2', 'hires', 'wide', '1gb', 'en_US'], 'ram': 1024, 'primary_arch': 'aarch64'}
+Opening 0
+XBOX FIXER
+-> /mnt/SDCARD/Data/ports/undertale/port.json
+-> /mnt/SDCARD/Data/ports/demonizer/port.json
+current_mode 1280x720
+MALI_CreateWindow:0x556f41b5c0 done.
+Segmentation fault
+removed '/mnt/SDCARD/Imgs/PORTS/Undertale-pre.png'
+removed '/mnt/SDCARD/Imgs/PORTS/Demonizer-pre.jpg'

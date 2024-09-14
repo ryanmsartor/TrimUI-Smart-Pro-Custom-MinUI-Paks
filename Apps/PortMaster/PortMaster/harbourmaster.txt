@@ -1,0 +1,3 @@
+2024-08-18 23:19:17.672 | DEBUG    | harbourmaster.hardware:device_info:510 - DEVICE INFO: {'name': 'TrimUI', 'version': '1.0.4', 'device': 'trimui-smart-pro', 'resolution': (1280, 720), 'analogsticks': 2, 'cpu': 'a133plus', 'capabilities': ['power', 'aarch64', 'restore', '16:9', '1280x720', 'TrimUI', 'trimui-smart-pro', 'analog_0', 'analog_1', 'analog_2', 'hires', 'wide', '1gb'], 'ram': 1024, 'primary_arch': 'aarch64'}
+2024-08-18 23:19:17.932 | INFO     | harbourmaster.harbour:check_runtime:1644 - Installing Godot/FRT 3.4.5
+2024-08-18 23:19:21.459 | DEBUG    | harbourmaster.platform:runtime_install:203 - PlatformTrimUI: Runtime Install frt_3.4.5.squashfs
