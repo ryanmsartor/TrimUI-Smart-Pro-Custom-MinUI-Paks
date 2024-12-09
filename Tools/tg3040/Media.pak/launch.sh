@@ -1,0 +1,12 @@
+#!/bin/sh
+echo $0 $*
+progdir=`dirname "$0"`
+cd $progdir
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$progdir
+
+
+echo 1 > /tmp/stay_awake
+
+./mediaplayer
+
+rm /tmp/stay_awake

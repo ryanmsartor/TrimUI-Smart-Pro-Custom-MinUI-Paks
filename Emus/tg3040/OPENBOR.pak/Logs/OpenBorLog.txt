@@ -1,0 +1,142 @@
+Total Ram:  1022291968 Bytes (   974 MB )
+ Free Ram:   786518016 Bytes (   750 MB )
+ Used Ram:     1295872 Bytes (     1 MB )
+
+debug:nativeWidth, nativeHeight, bpp, Hz  1024, 768, 24, 60
+OpenBoR v3.0 Build 7144 (commit hash: b8303cc), Compile Date: Nov 21 2023
+
+Game Selected: /mnt/SDCARD/Roms/OpenBOR (OPENBOR)/Alien vs Predator Aftermath.pak
+
+FileCaching System Init......	Enabled
+Initializing video............
+'data/video.txt' not found.
+Initialized video.............	320x240 (Mode: 0)
+
+320x240
+Loading menu.txt.............	Done!
+Loading fonts................	1 2 3 4 Done!
+Timer init...................	Done!
+Initialize Sound..............	
+Loading sprites..............	Done!
+Loading level order..........	Done!
+Loading model constants......	Done!
+Loading script settings......	Done!
+Loading scripts..............	Done!
+Loading models...............
+
+Controller or joystick hotplugged: SDL device ID=0
+X360 Controller (device #0, SDL ID 0) is a game controller.
+Hotplugged controller set as device #0
+Cacheing 'Flash' from data/chars/misc/flash.txt
+Cacheing 'P.Warrior' from data/chars/Warior/Warior.txt
+Cacheing 'Lt.Kurosawa' from data/chars/Kurosa/Kurosa.txt
+Cacheing 'P.Hunter' from data/chars/Hunter/Hunter.txt
+Cacheing 'apple' from data/chars/misc/apple.txt
+Cacheing 'Meat' from data/chars/misc/meat.txt
+Cacheing '1up' from data/chars/misc/1up.txt
+Cacheing 'Money' from data/chars/misc/money.txt
+Cacheing 'Gold' from data/chars/misc/gold.txt
+Cacheing 'Time' from data/chars/misc/time.txt
+Cacheing 'Hotdog' from data/chars/misc/Hotdog.txt
+Cacheing 'Pizza' from data/chars/misc/Pizza.txt
+Cacheing 'Burger' from data/chars/misc/Burger.txt
+Cacheing 'Porker' from data/chars/misc/Porker.txt
+Cacheing 'Beefsteak' from data/chars/misc/Beef.txt
+Cacheing 'sea_bream' from data/chars/misc/Bream.txt
+Cacheing 'Ham' from data/chars/misc/Ham.txt
+Cacheing 'rain' from data/chars/misc/rain.txt
+Cacheing 'fire' from data/chars/misc/fire.txt
+Cacheing 'wall' from data/chars/misc/wall.txt
+Cacheing 'Body1' from data/chars/misc/Body1.txt
+Cacheing 'Body2' from data/chars/misc/Body2.txt
+Cacheing 'Egg' from data/chars/misc/Egg.txt
+Cacheing 'Box' from data/chars/misc/box.txt
+Cacheing 'boxb' from data/chars/misc/boxb.txt
+Cacheing 'ad' from data/chars/misc/ad.txt
+Cacheing 'phone' from data/chars/misc/phone.txt
+Cacheing 'Crate' from data/chars/misc/crate.txt
+Cacheing 'Trash' from data/chars/misc/trash.txt
+Cacheing 'Table' from data/chars/misc/table.txt
+Cacheing 'Chair' from data/chars/misc/chair.txt
+Cacheing 'Fence' from data/chars/misc/fence.txt
+Cacheing 'Drum' from data/chars/misc/drum.txt
+Cacheing 'Trolly' from data/chars/misc/trolly.txt
+Cacheing 'alien1' from data/chars/alien1/alien1.txt
+Cacheing 'Alien2' from data/chars/Alien2/Alien2.txt
+Cacheing 'Alien3' from data/chars/Alien3/Alien3.txt
+Cacheing 'Alien4' from data/chars/Alien4/Alien4.txt
+Cacheing 'Alien5' from data/chars/Alien5/Alien5.txt
+Cacheing 'Alien6' from data/chars/Alien6/Alien6.txt
+Cacheing 'Face_Hugger' from data/chars/Hugger/Hugger.txt
+Cacheing 'Chest_Buster' from data/chars/Chest/Chest.txt
+Cacheing 'Infectoid' from data/chars/Infect/Infect.txt
+Cacheing 'Evil_Predator' from data/chars/Evil/Evil.txt
+Cacheing 'RAMON' from data/chars/RAMON/RAMON.txt
+Cacheing 'Chrysalis' from data/chars/Chrys/Chrys.txt
+Cacheing 'Royal_Gaurd' from data/chars/Royal/Royal.txt
+Cacheing 'Razor_Claws' from data/chars/Razor/Razor.txt
+Cacheing 'Queen' from data/chars/Queen/Queen.txt
+Cacheing 'bender' from data/chars/misc/bender.txt
+Cacheing 'Steam' from data/chars/misc/steam.txt
+Cacheing 'Steamer' from data/chars/misc/steamer.txt
+Cacheing 'Furnace' from data/chars/misc/furnace.txt
+
+Loaded 'Flash' from data/chars/misc/flash.txt 
+Loaded 'P.Warrior' from data/chars/Warior/Warior.txt 
+sound_load_sample can't load sample from file 'data/sounds/die3.wav'!
+sound_load_sample can't load sample from file 'data/chars/Warior/final.wav'!
+Loaded 'Lt.Kurosawa' from data/chars/Kurosa/Kurosa.txt 
+sound_load_sample can't load sample from file 'data/sounds/die3.wav'!
+sound_load_sample can't load sample from file 'data/chars/Kurosa/sounds/freespecial.wav'!
+Loaded 'Hunter' from data/chars/Hunter/Hunter.txt 
+sound_load_sample can't load sample from file 'data/chars/Hunter/final.wav'!
+sound_load_sample can't load sample from file 'data/chars/Hunter/sounds/shot.wav'!
+
+Loading models...............	Done!
+Object engine init...........	Done!
+Input init...................	X360 Controller (device #0, SDL ID 0) is a game controller.
+Done!
+Create blending tables.......	Done!
+Save settings so far........	Done!
+
+
+
+************ Shutting Down ************
+
+OpenBOR v3.0 Build 7144 (commit hash: b8303cc), Compile Date: Nov 21 2023
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+
+Total Ram:  1022291968 Bytes (   974 MB )
+ Free Ram:   769273856 Bytes (   733 MB )
+ Used Ram:    36697088 Bytes (    34 MB )
+
+Release level data...........
+Done!
+
+Release graphics data........	Done!
+Release game data............
+
+Unload 'Flash' ............Done.
+Unload 'P.Warrior' ............Done.
+Unload 'Lt.Kurosawa' ............Done.
+Unload 'Hunter' ............Done.
+
+Release game data............	Done!
+Release timer................	Done!
+Release input hardware.......	Done!
+Release sound system.........	Done!
+Release FileCaching System...	Done!
+
+**************** Done *****************
+
+OpenBOR v3.0 Build 7144 (commit hash: b8303cc), Compile Date: Nov 21 2023
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+
