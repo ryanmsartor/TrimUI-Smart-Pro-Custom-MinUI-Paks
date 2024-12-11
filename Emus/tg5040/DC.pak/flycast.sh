@@ -8,8 +8,8 @@ done &
 LOOP_PID=$!
 
 echo $0 $*
-RA_DIR=/mnt/SDCARD/Tools/tg5040/RetroArch.pak
-EMU_DIR=/mnt/SDCARD/Emus/tg5040/DC.pak
+RA_DIR=/mnt/SDCARD/Tools/$PLATFORM/RetroArch.pak
+EMU_DIR=/mnt/SDCARD/Emus/$PLATFORM/DC.pak
 
 cd "$RA_DIR"
 HOME=$RA_DIR/ $RA_DIR/ra64.trimui -v -L $RA_DIR/.retroarch/cores/flycast_libretro.so "$*"

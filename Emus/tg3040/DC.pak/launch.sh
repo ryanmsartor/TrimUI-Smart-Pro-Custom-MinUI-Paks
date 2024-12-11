@@ -1,7 +1,7 @@
 #!/bin/sh
 echo $0 $*
 
-EMU_DIR=/mnt/SDCARD/Emus/tg5040/DC.pak
+EMU_DIR=/mnt/SDCARD/Emus/$PLATFORM/DC.pak
 
 $EMU_DIR/cpufreq.sh
 $EMU_DIR/effect.sh

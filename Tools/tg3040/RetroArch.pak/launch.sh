@@ -1,6 +1,6 @@
 #!/bin/sh
 echo $0 $*
-RA_DIR=/mnt/SDCARD/Tools/tg3040/RetroArch.pak
+RA_DIR=/mnt/SDCARD/Tools/$PLATFORM/RetroArch.pak
 cd $RA_DIR/
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/mnt/SDCARD/System/lib

@@ -8,8 +8,8 @@ done &
 LOOP_PID=$!
 
 echo $0 $*
-RA_DIR=/mnt/SDCARD/Tools/tg3040/RetroArch.pak
-EMU_DIR=/mnt/SDCARD/Emus/tg3040/COMMODORE.pak
+RA_DIR=/mnt/SDCARD/Tools/$PLATFORM/RetroArch.pak
+EMU_DIR=/mnt/SDCARD/Emus/$PLATFORM/COMMODORE.pak
 
 $EMU_DIR/performance.sh
 

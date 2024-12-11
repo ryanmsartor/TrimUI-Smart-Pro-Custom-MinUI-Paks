@@ -7,8 +7,8 @@ LOOP_PID=$!
 
 echo $0 $*
 
-EMU_DIR=/mnt/SDCARD/Emus/tg5040/N64.pak/mupen64plus
-CONFDIR="/mnt/SDCARD/Emus/tg5040/N64.pak"
+EMU_DIR=/mnt/SDCARD/Emus/$PLATFORM/N64.pak/mupen64plus
+CONFDIR="/mnt/SDCARD/Emus/$PLATFORM/N64.pak"
 export XDG_CONFIG_HOME="$CONFDIR"
 export XDG_DATA_HOME="$CONFDIR"
 export FRT_NO_EXIT_SHORTCUTS=FRT_NO_EXIT_SHORTCUTS
